@@ -16,16 +16,7 @@ namespace sumcolumn
             Console.WriteLine("enter a column");
             int col = Convert.ToInt32(Console.ReadLine());
             int[,] array = new int[row, col];
-            for(int k= 0; i < row; i++)
-            {
-                string[] inpu = Console.ReadLine().Split(' ');
-                if(inpu.Length != col)
-                {
-                    Console.WriteLine($"Your col elements are {col} , but recived { inpu.Length}. Please re enter row {i+1}");
-                    i--;
-                    continue;
-                }
-                for(int j = 0; j < col; j++)
+       
                 {
                     array[i,j] = Convert.ToInt32(inpu[j]);
                 }
