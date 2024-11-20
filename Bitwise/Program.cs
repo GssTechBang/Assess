@@ -11,7 +11,7 @@ namespace Bitwise
         static void Main(string[] args)
         {
             Console.WriteLine("enter the multiple");
-            int a = Convert.ToInt32(Console.ReadLine());
+            int z = Convert.ToInt32(Console.ReadLine());
             int bb = a << 2;
             Console.WriteLine(bb);
         }
