@@ -16,7 +16,7 @@ namespace sumcolumn
             Console.WriteLine("enter a column");
             int col = Convert.ToInt32(Console.ReadLine());
             int[,] array = new int[row, col];
-            for(int i = 0; i < row; i++)
+            for(int k= 0; i < row; i++)
             {
                 string[] inpu = Console.ReadLine().Split(' ');
                 if(inpu.Length != col)
