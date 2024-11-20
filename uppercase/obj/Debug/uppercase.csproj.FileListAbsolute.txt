@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\MamAssignment\uppercase\bin\Debug\uppercase.exe.config
+C:\Users\preethu\source\repos\MamAssignment\uppercase\bin\Debug\uppercase.exe
+C:\Users\preethu\source\repos\MamAssignment\uppercase\bin\Debug\uppercase.pdb
+C:\Users\preethu\source\repos\MamAssignment\uppercase\obj\Debug\uppercase.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\MamAssignment\uppercase\obj\Debug\uppercase.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\MamAssignment\uppercase\obj\Debug\uppercase.exe
+C:\Users\preethu\source\repos\MamAssignment\uppercase\obj\Debug\uppercase.pdb

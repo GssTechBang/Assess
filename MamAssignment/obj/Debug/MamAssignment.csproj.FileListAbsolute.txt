@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\MamAssignment\MamAssignment\bin\Debug\MamAssignment.exe.config
+C:\Users\preethu\source\repos\MamAssignment\MamAssignment\bin\Debug\MamAssignment.exe
+C:\Users\preethu\source\repos\MamAssignment\MamAssignment\bin\Debug\MamAssignment.pdb
+C:\Users\preethu\source\repos\MamAssignment\MamAssignment\obj\Debug\MamAssignment.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\MamAssignment\MamAssignment\obj\Debug\MamAssignment.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\MamAssignment\MamAssignment\obj\Debug\MamAssignment.exe
+C:\Users\preethu\source\repos\MamAssignment\MamAssignment\obj\Debug\MamAssignment.pdb

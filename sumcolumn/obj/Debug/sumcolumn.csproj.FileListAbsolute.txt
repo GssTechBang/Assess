@@ -1,0 +1,7 @@
+C:\Users\preethu\source\repos\MamAssignment\sumcolumn\bin\Debug\sumcolumn.exe.config
+C:\Users\preethu\source\repos\MamAssignment\sumcolumn\bin\Debug\sumcolumn.exe
+C:\Users\preethu\source\repos\MamAssignment\sumcolumn\bin\Debug\sumcolumn.pdb
+C:\Users\preethu\source\repos\MamAssignment\sumcolumn\obj\Debug\sumcolumn.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\MamAssignment\sumcolumn\obj\Debug\sumcolumn.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\MamAssignment\sumcolumn\obj\Debug\sumcolumn.exe
+C:\Users\preethu\source\repos\MamAssignment\sumcolumn\obj\Debug\sumcolumn.pdb
