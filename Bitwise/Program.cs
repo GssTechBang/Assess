@@ -12,7 +12,7 @@ namespace Bitwise
         {
             Console.WriteLine("enter the multiple");
             int a = Convert.ToInt32(Console.ReadLine());
-            int bb = a << 2;
+            int bb = c << 2;
             Console.WriteLine(bb);
         }
     }
