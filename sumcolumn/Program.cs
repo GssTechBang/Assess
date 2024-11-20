@@ -5,7 +5,7 @@ using System.Runtime.Serialization.Formatters;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sumcolumn
+namespace sumColumn
 {
     internal class Program
     {
@@ -26,14 +26,7 @@ namespace sumcolumn
 
 
             Console.WriteLine("the values are");
-            for(int k = 0; i < row; i++)
-            {
-               for(int j = 0;j < col; j++)
-                {
-                    Console.Write(array[i,j] + " ");
-                }
-                Console.WriteLine();
-            }
+            
 
             Console.WriteLine("the sum of columns");
             for (int j = 0; j < col; j++)
